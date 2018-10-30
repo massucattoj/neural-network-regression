@@ -1,6 +1,4 @@
-
-    Interview for Deep Learning Position
-    
+ 
     Author: Jean Massucatto
     Computer Engineer 
 
